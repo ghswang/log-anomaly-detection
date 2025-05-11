@@ -1,0 +1,3 @@
+time_received time_elapsed src_ip action request_method uri_host uri_path user_agent status_code threat_name url_category
+"2025-05-09T12:30:00Z" 4500 "192.168.1.2" "ALLOWED" "GET" "example.com" "/index.html" "Mozilla/5.0" 200 "NONE" "Technology"
+"2025-05-09T12:31:00Z" 6000 "192.168.1.3" "BLOCKED" "POST" "malicious.com" "/attack" "curl/7.68.0" 403 "MALWARE" "Suspicious"

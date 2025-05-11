@@ -1,0 +1,1 @@
+2025-05-11T12:10:00Z 6000 192.168.1.31 ALLOWED GET corporate.com /portal "Mozilla/5.0" 200 NONE Business

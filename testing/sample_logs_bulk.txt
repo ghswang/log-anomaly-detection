@@ -1,0 +1,11 @@
+2025-05-11T10:01:00Z 200 10.0.0.1 ALLOWED GET example.com /home "Mozilla/5.0" 200 NONE business
+2025-05-11T10:01:10Z 180 10.0.0.2 ALLOWED GET example.com /about "Mozilla/5.0" 200 NONE business
+2025-05-11T10:01:20Z 190 10.0.0.3 ALLOWED GET example.com /contact "Mozilla/5.0" 200 NONE business
+2025-05-11T10:01:30Z 210 10.0.0.4 ALLOWED GET example.com /products "Mozilla/5.0" 200 NONE business
+2025-05-11T10:01:40Z 230 10.0.0.5 ALLOWED GET example.com /services "Mozilla/5.0" 200 NONE business
+2025-05-11T10:00:00Z 8000 10.0.0.99 BLOCKED POST malware.bad.com /malware "MaliciousBot/9.9" 500 TROJAN malware
+2025-05-11T10:01:50Z 250 10.0.0.6 ALLOWED GET example.com /pricing "Mozilla/5.0" 200 NONE business
+2025-05-11T10:02:00Z 270 10.0.0.7 ALLOWED GET example.com /blog "Mozilla/5.0" 200 NONE business
+2025-05-11T10:02:10Z 260 10.0.0.8 ALLOWED GET example.com /careers "Mozilla/5.0" 200 NONE business
+2025-05-11T10:02:20Z 240 10.0.0.9 ALLOWED GET example.com /support "Mozilla/5.0" 200 NONE business
+2025-05-11T10:02:30Z 220 10.0.0.10 ALLOWED GET example.com /faq "Mozilla/5.0" 200 NONE business
