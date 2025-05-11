@@ -84,7 +84,7 @@ docker-compose up -d
 
 ```bash
 python3 -m venv venv
-source venv/bin/activate  # or venv\Scriptsctivate on Windows
+source ./venv/bin/activate  # or venv\Scriptsctivate on Windows
 pip install -r requirements.txt
 ```
 
